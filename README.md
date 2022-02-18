@@ -1,1 +1,1 @@
-# Social-Media-SQL---PLSQL---DATABASE-SCHEMA
+# Social-Media-SQL-PLSQL-DATABASE-SCHEMA
